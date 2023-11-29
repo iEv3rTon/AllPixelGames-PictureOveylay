@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @name         All games PictureOverlay
+// @name         All pixelgames PictureOverlay
 // @namespace    https://github.com/Woyken/pixelplanet.fun-OverlayPicture
 // @version      1.1.12
 // @description  Add your picture as overlay to all pixel games (Based on pixelplanet.fun code)
