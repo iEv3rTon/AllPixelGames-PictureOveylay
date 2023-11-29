@@ -1,5 +1,4 @@
-# AllPixelGames-PictureOveylay
-# Overlay Picture for canvaspixel.net
+# Overlay Picture for all pixelgames based on pixelplanet.fun
 
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-typescript.svg" height="35"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" height="35"></a>
