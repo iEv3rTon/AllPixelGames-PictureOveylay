@@ -28520,7 +28520,7 @@ const useStyles$1 = makeStyles.makeStyles()((theme, props) => {
   return {
     modalRoot: {
       position: "absolute",
-      right: "0.9em",
+      left: "0.9em",
       top: "0.1em",
       width: isMinimized ? void 0 : "15em",
       border: "1px solid rgb(0, 0, 0)",
