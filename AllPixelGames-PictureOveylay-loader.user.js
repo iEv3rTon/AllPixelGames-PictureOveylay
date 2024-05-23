@@ -28520,8 +28520,8 @@ const useStyles$1 = makeStyles.makeStyles()((theme, props) => {
   return {
     modalRoot: {
       position: "absolute",
-      left: "0.9em",
-      top: "0.1em",
+      left: "1.15em",
+      top: "4.1em",
       width: isMinimized ? void 0 : "15em",
       border: "1px solid rgb(0, 0, 0)",
       backgroundColor: colorStringExports.to.rgb(backgroundColor),
